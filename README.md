@@ -1,7 +1,3 @@
 # About Me
 
-Project Title: A Data Analytics Approach to Project Management with Primavera P6 and Python
-As a data analytics student, my goal for this project was to bridge the gap between traditional project management software and modern analytical techniques. This repository demonstrates my work in using Python to integrate with Primavera P6, showcasing my skills in:
-Data Extraction and Cleaning: Parsing complex.XER files to extract key project data.
-Custom Analysis: Developing custom scripts to perform advanced analyses beyond standard P6 reports.
-Informed Decision Making: Creating intuitive reports and visualizations that support project managers in making better, faster decisions.
+This repository explores the integration of Primavera P6 project controls with Python-based data analytics, aiming to bridge traditional project management and modern analytical methods. It focuses on using historical project data to forecast potential schedule delays, cost overruns, and high-risk activities. Future updates will include Jupyter Notebooks, datasets, and visualizations demonstrating how predictive analytics can enhance project planning, Earned Value Management (EVM), and decision-making. This project reflects my ongoing journey as a Data Analytics student applying data-driven insights to real-world project control challenges.
