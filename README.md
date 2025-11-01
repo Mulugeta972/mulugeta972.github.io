@@ -1,3 +1,19 @@
-# About Me
+Primavera P6 + Python Integration: Data Analytics for Project Controls
 
-This repository explores the integration of Primavera P6 project controls with Python-based data analytics, aiming to bridge traditional project management and modern analytical methods. It focuses on using historical project data to forecast potential schedule delays, cost overruns, and high-risk activities. Future updates will include Jupyter Notebooks, datasets, and visualizations demonstrating how predictive analytics can enhance project planning, Earned Value Management (EVM), and decision-making. This project reflects my ongoing journey as a Data Analytics student applying data-driven insights to real-world project control challenges.
+As a Data Analytics student, my goal for this project is to bridge the gap between traditional project management software and modern analytical techniques. Using Primavera P6 schedules and historical project data, I apply Python to transform raw information into actionable insights.
+
+What this repository demonstrates:
+
+Data Extraction & Cleaning — Parsing complex.XER files to retrieve schedule and cost data.
+
+Custom Analysis — Developing Python scripts for trend detection, performance indicators, and anomaly detection beyond standard P6 reports.
+
+Informed Decision-Making — Creating dashboards, reports, and visualizations that support faster and better project management decisions.
+
+Jupyter Notebooks:
+Jupyter Notebooks demonstrating the analysis and visualizations will be uploaded in the notebooks folder
+ as the project evolves.
+
+This project is a work in progress, reflecting my journey in applying data-driven insights to real-world project control challenges.
+
+#ProjectControls #PrimaveraP6 #DataAnalytics #Python #Forecasting #GitHub #EVM #ConstructionAnalytics
